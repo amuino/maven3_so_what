@@ -1,0 +1,6 @@
+h1. Maven3… so what?
+
+This is the source code for "the presentation of the same name":http://www.slideshare.net/amuino/maven-3-so-what.
+
+Most examples are run from the _example_ project, with only a few of them using the _polyglot_ one (which, not surprisingly, is only used for demoing "polyglot maven":https://github.com/sonatype/polyglot-maven
+

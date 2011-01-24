@@ -1,0 +1,10 @@
+<project>
+	<body>
+		<links>
+			<item name="A link" href="http://google.com" />
+		</links>
+		<menu ref="parent" />
+		<menu ref="modules" />
+		<menu ref="reports" />
+	</body>
+</project>
